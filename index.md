@@ -7,3 +7,7 @@ Added header to index file
 ``` javascript
 const myBestVariable = 42;
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
