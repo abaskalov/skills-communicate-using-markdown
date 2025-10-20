@@ -3,3 +3,7 @@
 Added header to index file
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+const myBestVariable = 42;
+```
